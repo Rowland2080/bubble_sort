@@ -1,0 +1,1 @@
+This program contains a method called bubble_sort, which takes in an array as it's argument and returns a sorted array. The aim of this program is to sort an array without using the sort method  but rather using the deprecated Bubble Sort method
